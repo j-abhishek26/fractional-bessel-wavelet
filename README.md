@@ -105,18 +105,5 @@ All 10 figures will be saved as high-resolution PNG files in the current directo
 
 ---
 
-## Citation
 
-If you use this code in your research, please cite:
-
-```bibtex
-@article{antony2025bessel,
-  title   = {Fractional {Bessel}--Hypergeometric Wavelets: Rigorous Construction,
-             Spectral Theory, and Multi-Domain Applications},
-  author  = {Antony, Linu Tess and Kumar, S. N. and Rajasingh, J. and J, Abhishek},
-  journal = {Applied Mathematics and Computation},
-  year    = {2025},
-  note    = {Submitted}
-}
-```
 
